@@ -1,6 +1,6 @@
 {
   "name": "@devargs/react-upload-file",
-  "version": "0.1",
+  "version": "0.0.1",
   "description": "Structure-Only, UI-Customizable and Modern file upload component for IE9+",
   "main": "dist/index.min.js",
   "engines": {
