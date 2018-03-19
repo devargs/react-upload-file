@@ -1,6 +1,6 @@
 {
   "name": "react-upload-file",
-  "version": "2.0.0-beta.6",
+  "version": "0.1",
   "description": "Structure-Only, UI-Customizable and Modern file upload component for IE9+",
   "main": "dist/index.min.js",
   "engines": {
@@ -19,7 +19,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/wubocong/react-upload-file.git"
+    "url": "https://github.com/devargs/react-upload-file.git"
   },
   "author": "Warrior!",
   "license": "MIT",
@@ -49,6 +49,6 @@
     "webpack": "^1.13.3"
   },
   "bugs": {
-    "url": "https://github.com/wubocong/react-upload-file.git"
+    "url": "https://github.com/devargs/react-upload-file.git"
   }
 }
