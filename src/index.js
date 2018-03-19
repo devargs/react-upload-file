@@ -66,7 +66,7 @@ export default class ReactUploadFile extends Component {
       ...props.options,
     };
     const timeout = parseInt(options.timeout, 10);
-    options.timeout = (Number.isInteger(timeout) && timeout > 0) ? timeout : 0;
+    options.timeout = (Number.isInteger && Number.isInteger(timeout) && timeout > 0) ? timeout : 0;
     const dataType = options.dataType && options.dataType.toLowerCase();
     options.dataType = dataType !== 'json' && 'text';
 
